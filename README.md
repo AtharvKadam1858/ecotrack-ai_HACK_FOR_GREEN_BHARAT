@@ -141,3 +141,6 @@ No backend required.
 👨‍💻 Author
 Developed for Hack For Green Bharat Hackathon
 Project: EcoTrack AI – Predictive Carbon Intelligence Platform
+
+## 🏆 Duality AI Track
+IOU Score (ZER0 Platform): 26.6
